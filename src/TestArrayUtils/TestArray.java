@@ -17,8 +17,6 @@ public class TestArray {
         System.out.println("对数组进行排序");
         arrayUtils.sort(arr);
         System.out.println(Arrays.toString(arr));
-
-
     }
 
 
